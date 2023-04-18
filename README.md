@@ -1,16 +1,17 @@
-### Hi there 👋
+# CV Desy
++
+## About Me
+- Nama              : Desy Natalia Singa
+- Alamat            : Soataloara II
+- Tempat, Tgl Lahir : Tahuna, 24 Desember 2003
+- Jenis Kelamin     : Perempuan
+- Status            : Mahasiswa
+- Email             : natsinga78@gmail.com
+- Nomor Hp          : +628229887****
 
-<!--
-**desynataliaaa/desynataliaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Pendidikan:
+- [Politeknik Negeri Nusa Utara] | Sistem Informasi | Manganitu '2021-Sekarang'
+- Sekolah Dasar : SDN INPRES SOATALOARA
+- Sekolah Menengah Pertama : SMP N 1 TAHUNA
+- Sekolah Menengah Kejuruan : SMK N 1 TAHUNA
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
